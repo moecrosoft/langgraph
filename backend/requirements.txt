@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langgraph
+psycopg2-binary
+sentence-transformers
+langchain-community
+langchain-ollama
+requests
